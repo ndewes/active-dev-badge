@@ -1,4 +1,4 @@
-/.env
-/.vscode
-/1024px-Circle-icons-dev.svg.png
-/venv
+.env
+.vscode
+venv
+1024px-Circle-icons-dev.svg.png
